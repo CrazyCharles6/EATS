@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T03:07:03.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="DUOoFIi0ctq4ZTR7Vk50" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T03:18:20.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ZZGS-6EXKNKQFA6ldoNv" version="14.2.9" type="github">
   <diagram id="LlmXsKbw6WyrlANINubp" name="Page-1">
     <mxGraphModel dx="2462" dy="1154" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
@@ -2169,7 +2169,7 @@
         <mxCell id="4Znly2gloiY9xH2NgMmQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Znly2gloiY9xH2NgMmQ-4" target="4Znly2gloiY9xH2NgMmQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Znly2gloiY9xH2NgMmQ-4" value="Graph Convolution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4Znly2gloiY9xH2NgMmQ-4" value="Graph Convolution Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="8029" y="434.5" width="195" height="59" as="geometry" />
         </mxCell>
         <mxCell id="4Znly2gloiY9xH2NgMmQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Znly2gloiY9xH2NgMmQ-5" target="4Znly2gloiY9xH2NgMmQ-6">
@@ -2181,7 +2181,7 @@
         <mxCell id="4Znly2gloiY9xH2NgMmQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Znly2gloiY9xH2NgMmQ-6" target="4Znly2gloiY9xH2NgMmQ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Znly2gloiY9xH2NgMmQ-6" value="Graph Convolution" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4Znly2gloiY9xH2NgMmQ-6" value="Graph Convolution Layer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="8030.5" y="269.5" width="195" height="59" as="geometry" />
         </mxCell>
         <mxCell id="4Znly2gloiY9xH2NgMmQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Znly2gloiY9xH2NgMmQ-7">
@@ -2201,13 +2201,37 @@
             <mxPoint x="8173" y="496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Znly2gloiY9xH2NgMmQ-15" value="Sequence embedding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Znly2gloiY9xH2NgMmQ-15" value="Sequence embedding" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="8125" y="549.75" width="103" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="4Znly2gloiY9xH2NgMmQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Znly2gloiY9xH2NgMmQ-16" target="4Znly2gloiY9xH2NgMmQ-4">
+        <mxCell id="4Znly2gloiY9xH2NgMmQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.397;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8077.5" y="530" as="sourcePoint" />
+            <mxPoint x="8104.915000000001" y="328.972" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="8078" y="513" />
+              <mxPoint x="8021" y="513" />
+              <mxPoint x="8021" y="347" />
+              <mxPoint x="8105" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Znly2gloiY9xH2NgMmQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.39;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="8075.5" y="531" as="sourcePoint" />
+            <mxPoint x="8104.049999999999" y="237.00600000000009" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="8076" y="513" />
+              <mxPoint x="8021" y="513" />
+              <mxPoint x="8021" y="251" />
+              <mxPoint x="8104" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Znly2gloiY9xH2NgMmQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4Znly2gloiY9xH2NgMmQ-16" target="4Znly2gloiY9xH2NgMmQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Znly2gloiY9xH2NgMmQ-16" value="Adjacency&lt;br&gt;Matrix" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="4Znly2gloiY9xH2NgMmQ-16" value="Adjacency&lt;br&gt;Matrix" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="8052" y="530" width="57" height="57" as="geometry" />
         </mxCell>
         <mxCell id="4Znly2gloiY9xH2NgMmQ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
