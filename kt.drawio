@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T12:05:05.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="anBVb_kOTdK49TfjjQHV" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T13:54:03.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="kpXmmOZ7Meyfz0k5TUCz" version="14.6.13" type="github">
   <diagram id="dxEm3PGWbQCyh-cOhR--" name="Page-1">
-    <mxGraphModel dx="1221" dy="1045" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="948" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="oThU-Nq465s2UoTOzhHI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="oThU-Nq465s2UoTOzhHI-3" target="oThU-Nq465s2UoTOzhHI-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oThU-Nq465s2UoTOzhHI-3" value="Lan-informed CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oThU-Nq465s2UoTOzhHI-3" value="Enhanced CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="263.5" y="487.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="oThU-Nq465s2UoTOzhHI-4" value="Phoneme" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
@@ -204,7 +204,7 @@
         <mxCell id="oThU-Nq465s2UoTOzhHI-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="oThU-Nq465s2UoTOzhHI-49" target="oThU-Nq465s2UoTOzhHI-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oThU-Nq465s2UoTOzhHI-49" value="Lan-informed CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oThU-Nq465s2UoTOzhHI-49" value="Enhanced CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="962.5" y="497.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="oThU-Nq465s2UoTOzhHI-50" value="Phoneme" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
@@ -485,7 +485,7 @@
         <mxCell id="oThU-Nq465s2UoTOzhHI-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="oThU-Nq465s2UoTOzhHI-121" target="oThU-Nq465s2UoTOzhHI-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oThU-Nq465s2UoTOzhHI-121" value="Lan-informed CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oThU-Nq465s2UoTOzhHI-121" value="Enhanced CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="239.5" y="954" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="oThU-Nq465s2UoTOzhHI-122" value="Tone/Stress" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
@@ -715,7 +715,7 @@
         <mxCell id="oThU-Nq465s2UoTOzhHI-607" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" parent="1" source="oThU-Nq465s2UoTOzhHI-608" target="oThU-Nq465s2UoTOzhHI-640" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oThU-Nq465s2UoTOzhHI-608" value="Lan-informed CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oThU-Nq465s2UoTOzhHI-608" value="Enhanced CBHG&lt;br&gt;&amp;nbsp;Encoder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="207.5" y="1405" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="oThU-Nq465s2UoTOzhHI-609" value="Tone/Stress" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
