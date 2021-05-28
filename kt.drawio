@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T13:31:30.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WS1bqkL4R1J4wDW82pAG" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T08:21:47.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XaRBk5RNwB_XpXb8CuSw" version="14.6.10" type="github">
   <diagram id="dxEm3PGWbQCyh-cOhR--" name="Page-1">
-    <mxGraphModel dx="1422" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="826" dy="1120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oNXksbKMvCrR9usc8YQW-446" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1327.25" y="5155" width="151.75" height="156.93" as="geometry" />
-        </mxCell>
         <mxCell id="m3pUYSqIltd4y_O23F7D-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=11;fontColor=#333333;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="525" y="2045.62" width="96.5" height="140" as="geometry" />
         </mxCell>
@@ -2615,7 +2612,7 @@
           <mxGeometry x="544.5" y="5059" width="67" height="18" as="geometry" />
         </mxCell>
         <mxCell id="oNXksbKMvCrR9usc8YQW-164" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1321.5" y="4972" width="272" height="355" as="geometry" />
+          <mxGeometry x="1323" y="4966.88" width="272" height="355" as="geometry" />
         </mxCell>
         <mxCell id="oNXksbKMvCrR9usc8YQW-165" value="CNN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1332.5" y="5098" width="142" height="38.5" as="geometry" />
@@ -3884,10 +3881,13 @@
           <mxGeometry x="1479.5" y="5114.5" width="218.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oNXksbKMvCrR9usc8YQW-481" value="Mel &lt;br&gt;Spectrogram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1616.66" y="5148.38" width="84" height="32" as="geometry" />
+          <mxGeometry x="1611" y="5146.6900000000005" width="84" height="32" as="geometry" />
         </mxCell>
         <mxCell id="oNXksbKMvCrR9usc8YQW-482" value="Mel frame" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="826" y="6206.87" width="66" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="oNXksbKMvCrR9usc8YQW-446" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;dashed=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1326.75" y="5157" width="151.75" height="156.93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
