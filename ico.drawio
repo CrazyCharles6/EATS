@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T08:12:53.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KuKPMOSFHynb8vQXoZZc" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-25T08:13:54.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="woBV4gWb4jWAYSDEVASF" version="14.8.0" type="github">
   <diagram id="sHPcoUHdnQerQeeQ5iM-" name="Page-1">
     <mxGraphModel dx="2279" dy="-3835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="2jZZYZNGsbqbSUZDXx6Q-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="-644" y="4440.03" width="16" height="126.5" as="geometry" />
         </mxCell>
-        <mxCell id="2jZZYZNGsbqbSUZDXx6Q-8" value="九、平方差公式，A加B乘以A减B等于A的平方减B的平方，注意啊平方差公式展开只有两项。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-844" y="4701" width="502" height="18" as="geometry" />
+        <mxCell id="2jZZYZNGsbqbSUZDXx6Q-8" value="九、平方差公式：A加B乘以A减B等于A的平方减B的平方。注意啊,平方差公式展开只有两项。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-845" y="4701" width="505" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
